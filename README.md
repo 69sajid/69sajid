@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @69sajid
-- 👀 I’m interested in full stack development...
+- 👀 I’m interested in software development...
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on project based on front end
 - 📫 How to reach me --mail: sajidfiroz100@gmail.com
